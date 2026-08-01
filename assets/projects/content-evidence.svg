@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="235" viewBox="0 0 660 235" role="img" aria-labelledby="title description">
+  <title id="title">Content Evidence Engine</title>
+  <desc id="description">Developer content automation connected to Git and OBS.</desc>
+  <rect x="1" y="1" width="658" height="233" rx="14" fill="#070d17" stroke="#475569" stroke-width="2"/>
+  <rect x="24" y="24" width="52" height="52" rx="13" fill="#7c3aed"/>
+  <path d="M37 38h26v24H37z" fill="none" stroke="#f5f3ff" stroke-width="3"/><path d="m43 54 6-6 5 5 5-7" fill="none" stroke="#f5f3ff" stroke-width="3"/>
+  <text x="94" y="48" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Content Evidence Engine</text>
+  <text x="94" y="71" fill="#c4b5fd" font-family="Segoe UI, Arial, sans-serif" font-size="14">AUTOMATION · CONTENT OPS</text>
+  <text x="24" y="115" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17">Turns Git history and OBS sessions into structured</text>
+  <text x="24" y="140" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17">developer content packages.</text>
+  <rect x="24" y="177" width="102" height="32" rx="5" fill="#7c3aed"/>
+  <text x="41" y="198" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">PYTHON</text>
+  <rect x="136" y="177" width="205" height="32" rx="5" fill="#172033"/>
+  <text x="153" y="198" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">OBS · GIT · OPENROUTER</text>
+</svg>

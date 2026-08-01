@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="235" viewBox="0 0 660 235" role="img" aria-labelledby="title description">
+  <title id="title">AI Interview Coach</title>
+  <desc id="description">Multimodal English interview practice for software developers.</desc>
+  <rect x="1" y="1" width="658" height="233" rx="14" fill="#070d17" stroke="#475569" stroke-width="2"/>
+  <rect x="24" y="24" width="52" height="52" rx="13" fill="#0891b2"/>
+  <path d="M42 39h16v18H48l-6 6z" fill="none" stroke="#ecfeff" stroke-width="3"/>
+  <text x="94" y="48" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">AI Interview Coach</text>
+  <text x="94" y="71" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="14">AI · LEARNING SYSTEM</text>
+  <text x="24" y="115" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17">Multimodal English interview practice designed</text>
+  <text x="24" y="140" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17">for software developers.</text>
+  <rect x="24" y="177" width="102" height="32" rx="5" fill="#0891b2"/>
+  <text x="41" y="198" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">PYTHON</text>
+  <rect x="136" y="177" width="202" height="32" rx="5" fill="#172033"/>
+  <text x="153" y="198" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">GEMINI · MULTIMODAL</text>
+</svg>
